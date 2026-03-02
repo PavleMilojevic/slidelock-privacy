@@ -35,6 +35,15 @@ SlideLock is not designed to collect personal data from children without parenta
 
 You can request account deletion by contacting us at:
 pavle.milojevic.bor@gmail.com
+## Account Deletion
+
+If you wish to delete your SlideLock account and all associated data:
+
+1. Send an email to: pavle.milojevic.bor@gmail.com
+2. Use the subject line: "SlideLock Account Deletion Request"
+3. Include the email address used to create your account.
+
+Your account and associated data will be permanently deleted within 30 days of verification.
 
 ## Contact
 
